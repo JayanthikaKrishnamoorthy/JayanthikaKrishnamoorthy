@@ -13,32 +13,50 @@
 
 <br/>
 
-## `$ whoami`
+## `About Me`
 
 ```python
 class Jayanthika:
-    name       = "Jayanthika Krishnamoorthy"
-    location   = "Chennai, India 🇮🇳"
-    degree     = "B.Tech ECE — SRM Institute of Science and Technology"
-    cgpa       = 9.69 / 10.0
-    focus      = ["Machine Learning", "AI Systems", "Software Engineering"]
-    seeking    = "AI / ML & Software Engineering Internships"
-    
+
+    def __init__(self):
+        self.name = "Jayanthika Krishnamoorthy"
+        self.role = "ECE Student & AI/ML Enthusiast"
+        self.college = "SRM Institute of Science and Technology"
+        self.location = "Chennai, India 🇮🇳"
+        self.cgpa = "9.69 / 10.0"
+
+        self.interests = [
+            "Machine Learning",
+            "AI Systems",
+            "Software Engineering",
+            "Embedded Systems"
+        ]
+
+        self.seeking = "AI/ML & Software Engineering Internships"
+
+    def currently_learning(self):
+        return [
+            "NLPs",
+            "AI/ML",
+            "DSA",
+            "System Design"
+        ]
+
     def say_hi(self):
-        print("I build ML systems and software that solve real problems.")
-        print("Currently exploring the intersection of AI and embedded systems.")
+        print("I build intelligent systems that combine software and engineering.")
 ```
 
 <br/>
 
 ---
 
+
 ## 🔭 What I'm Working On
 
-- Building and iterating on ML pipelines for real-world health & sustainability data
-- Deepening expertise in **model evaluation**, **feature engineering**, and **NLP**
-- Exploring **LLMs** and **Retrieval-Augmented Generation (RAG)** architectures
-- Strengthening **DSA & system design** fundamentals for engineering interviews
+- Improving my Python, Machine Learning, and problem-solving skills
+- Building beginner-to-intermediate AI/ML projects with real-world applications
+- Learning more about DSA, system design, and software development fundamentals
+- Exploring AI tools, web scraping, and intelligent chatbot systems
 
 <br/>
 
@@ -91,7 +109,7 @@ class Jayanthika:
 <td width="50%" valign="top">
 
 ### 🤖 SDG Hybrid Chatbot
-> *Python · Web Scraping · NLP*
+> *Python · Hybrid Retrieval · Web Scraping*
 
 An intelligent conversational system built around the UN Sustainable Development Goals. Combines a curated knowledge base of **150+ Q&A pairs** with a live web-scraping fallback — achieving near-complete query coverage on SDG topics.
 
@@ -123,24 +141,6 @@ A clinical-grade ML system that predicts cardiovascular disease risk from patien
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JayanthikaKrishnamoorthy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818CF8&icon_color=a78bfa&text_color=e2e8f0&hide=issues&count_private=true" height="170" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayanthikaKrishnamoorthy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818CF8&text_color=e2e8f0&langs_count=6" height="170" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JayanthikaKrishnamoorthy&theme=tokyonight&hide_border=true&background=0f172a&stroke=818CF8&ring=a78bfa&fire=c4b5fd&currStreakLabel=e2e8f0&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
----
-
 ## 🤝 Connect
 
 <div align="center">
@@ -160,7 +160,7 @@ A clinical-grade ML system that predicts cardiovascular disease risk from patien
 
 <div align="center">
 
-**Fun fact:** I've debugged more models than I've slept hours during exam week.
+**Fun fact:** I've debugged more than I've slept hours during exam week.
 
 <br/>
 
