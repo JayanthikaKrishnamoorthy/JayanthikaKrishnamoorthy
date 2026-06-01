@@ -72,7 +72,6 @@ class Jayanthika:
 ![Java](https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=818CF8)
 ![C](https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=818CF8)
 ![SQL](https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=818CF8)
-![HTML5](https://img.shields.io/badge/HTML%2FCSS-0f172a?style=for-the-badge&logo=html5&logoColor=818CF8)
 
 **AI / ML**
 
