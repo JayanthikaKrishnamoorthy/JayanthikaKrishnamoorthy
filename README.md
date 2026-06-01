@@ -29,7 +29,7 @@ class Jayanthika:
             "Machine Learning",
             "AI Systems",
             "Software Engineering",
-            "Embedded Systems"
+            "Digital Signals"
         ]
 
         self.seeking = "AI/ML & Software Engineering Internships"
