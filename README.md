@@ -145,6 +145,11 @@ A clinical-grade ML system that predicts cardiovascular disease risk from patien
 <img src="https://streak-stats.demolab.com?user=JayanthikaKrishnamoorthy&theme=midnight-purple&hide_border=true&border_radius=15" alt="GitHub Streak" />
 </div>
 
+## 📈 Contribution Graph
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JayanthikaKrishnamoorthy&bg_color=00000000&color=A855F7&line=C084FC&point=E879F9&area=true&hide_border=true" width="100%"/>
+</div>
+
 ---
 
 ## 🤝 Connect
